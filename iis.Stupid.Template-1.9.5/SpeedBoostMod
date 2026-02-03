@@ -1,0 +1,4 @@
+  public static void LongArmsMod()
+     { 
+    GorillaLocomotion.player.instance.maxjumpspeed = 9f;
+       GorillaLocomotion.player.instance.JumpMultiplier = 9f;
