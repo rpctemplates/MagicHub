@@ -1,4 +1,4 @@
-﻿namespace StupidTemplate
+﻿namespace MagicHub
 {
     public class PluginInfo
     {
